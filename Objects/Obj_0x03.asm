@@ -1,5 +1,5 @@
 ;===============================================================================
-; Objeto 0x03 - Alterna o plano do cenário em relação ao jogador
+; Object 0x03 - Alternates the plane of the scenery relative to the player
 ; ->>> 
 ;===============================================================================   
 ; Offset_0x014DC8:
@@ -299,6 +299,6 @@ Offset_0x0151A2:
                 dc.l    $F8050000, $00000000
                 dc.l    $F8050000, $00000070                
 ;===============================================================================
-; Objeto 0x03 - Alterna o plano do cenário em relação ao jogador
+; Object 0x03 - Alternates the plane of the scenery relative to the player
 ; <<<- 
 ;===============================================================================
